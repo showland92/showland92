@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Scott
-- 👀 I’m interested in data analytics, especially how it can be applied to data-driven decision making in institutions of higher education
+- 👀 I’m interested in data analytics, especially how it can be applied to data-driven decision-making in institutions of higher education
 - 🌱 I’m currently learning Python and SQL
 
 
